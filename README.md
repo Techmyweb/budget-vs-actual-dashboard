@@ -1,4 +1,4 @@
-# Budget vs Actual Sales Dashboard 📊
+# Budget vs Actual Sales Dashboard
 
 This project is a professional Excel dashboard comparing departmental budgets with actual sales performance. It offers clear visual insights using bar charts and KPI indicators to help stakeholders understand where spending exceeded or fell below expectations.
 
@@ -34,7 +34,7 @@ This project is a professional Excel dashboard comparing departmental budgets wi
 
 ---
 
-## 🖼️ Project Preview
+## Project Preview
 
 ![Budget vs Actual Sales Dashboard](./Budget%20vs%20Actual%20Sales%20dashboard.png)
 
